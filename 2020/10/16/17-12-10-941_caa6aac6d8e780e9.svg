@@ -1,0 +1,16 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.05" x="59" y="139" width="142" height="23" rx="4" fill="black"/>
+<rect x="60" y="61" width="140" height="98" rx="4" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="61" y="110" width="138" height="24" fill="var(--color-primary)"/>
+<rect x="69" y="70" width="84" height="8" fill="var(--color-contrast-medium)"/>
+<rect x="69" y="94" width="58" height="8" fill="var(--color-contrast-medium)"/>
+<rect x="69" y="118" width="84" height="8" fill="var(--color-bg)"/>
+<rect x="69" y="142" width="58" height="8" fill="var(--color-contrast-medium)"/>
+<rect x="60" y="22" width="140" height="32" rx="4" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="73" y="34" width="54" height="8" fill="var(--color-contrast-high)"/>
+<rect x="130" y="26" width="2" height="24" fill="var(--color-contrast-high)"/>
+<path d="M176 122L180.667 126.333L190 117" stroke="var(--color-bg)" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+<circle cx="184" cy="38" r="8" fill="var(--color-contrast-medium)"/>
+<path d="M181.707 34.2929L181 33.5858L179.586 35L180.293 35.7071L181.707 34.2929ZM186.293 41.7071L187 42.4142L188.414 41L187.707 40.2929L186.293 41.7071ZM180.293 35.7071L186.293 41.7071L187.707 40.2929L181.707 34.2929L180.293 35.7071Z" fill="var(--color-bg)"/>
+<path d="M187.707 35.7071L188.414 35L187 33.5858L186.293 34.2929L187.707 35.7071ZM180.293 40.2929L179.586 41L181 42.4142L181.707 41.7071L180.293 40.2929ZM186.293 34.2929L180.293 40.2929L181.707 41.7071L187.707 35.7071L186.293 34.2929Z" fill="var(--color-bg)"/>
+</svg>
